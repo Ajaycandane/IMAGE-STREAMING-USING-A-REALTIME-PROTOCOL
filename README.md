@@ -1,1 +1,2 @@
-# IMAGE-STREAMING-USING-A-REALTIME-PROTOCOL-
+# IMAGE-STREAMING-USING-A-REALTIME-PROTOCOL
+This project introduces an enhanced protocol for real-time image transmission over loss-prone networks, addressing TCP's limitations. Leveraging UDP for speed and simplicity, the protocol includes a small optimizer layer to mitigate packet loss risks. The result is high-quality image streaming without buffer exhaustion. Experimental validation measures latency, image quality, and overall performance, offering insights into real-world applicability.
